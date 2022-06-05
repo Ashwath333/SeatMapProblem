@@ -1,0 +1,26 @@
+table td input.center{
+           background-color: red;
+       }
+       
+table td input.aisle{
+           background-color:lightblue;
+       }
+
+table td input.window{
+           background-color: green;
+       }
+table td input{
+    width:70px;
+}    
+
+table{
+    float:left;
+    margin-left:10px;
+}
+
+input.seats{
+    font-size:10px;
+}
+input.seats:focus{
+    outline:none;
+}
